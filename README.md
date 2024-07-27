@@ -50,7 +50,7 @@ python3 GuiScan.py
 ```
 >> here an image show the results of run the GuiScan.py
 
-![Yscan](https://github.com/Youssef530245/Yscan/blob/main/photo.png?raw=true "gui.png")
+![Yscan](https://github.com/Youssef530245/Yscan/blob/main/gui.png?raw=true "gui.png")
 
 
 
